@@ -41,7 +41,7 @@ $ cat example.dump
 0x0020	 1aeb ff6b 0016 bfe5 8deb b6d8 c646 5010	...k.........FP.
 0x0030	 ffff d06e 0000                         	...n.. 
 
-**Run the Script**
+# Run the Script
 
 $ ./dump_pcap.sh example.dump jan9.pcap
 Input from: Standard input
